@@ -1,0 +1,261 @@
+{
+
+    "id": "1",
+
+    "title": "21.5\" Full HD ",
+
+    "description": "ASUS VS228H-P 21.5\" Full HD 1920x1080 HDMI DVI VGA Back-lit LED Monitor",
+
+    "specifications": {
+
+        "brand": "ASUS",
+
+        "model": "VS228H-P",
+
+        "weight": "6.83 lbs",
+
+        "display type": "LED"
+
+    },
+
+    "stockQty": 10,
+
+    "price": 107.79,
+
+    "currency": "$",
+
+    "rating": 5,
+
+    "images": [
+
+        {
+
+            "src": "https://images-na.ssl-images-amazon.com/images/I/71r1E7x7PlL._SL1500_.jpg",
+
+            "caption": "",
+
+            "isMain": 1
+
+        },
+
+        {
+
+            "src": "https://images-na.ssl-images-amazon.com/images/I/714DDJEzY9L._SL1500_.jpg",
+
+            "caption": "side picture",
+
+            "isMain": 0
+
+        }
+
+    ]
+
+}
+
+{
+    "id": "2",
+
+    "title": "15.6\" FHD ",
+
+    "description": "Lenovo Ideapad 3 15.6\" FHD Touch Screen Laptop",
+
+    "specifications": {
+
+        "brand": "Lenovo",
+
+        "model": "82H801DQUS",
+
+        "weight": "3.74 lbs",
+
+        "display type": "LED"
+
+    },
+
+    "stockQty": 10,
+
+    "price": 499.99,
+
+    "currency": "$",
+
+    "rating": 5,
+
+    "images": [
+
+        {
+
+            "src": "https://m.media-amazon.com/images/I/61eiHmoOxLL._AC_SY355_.jpg",
+
+            "caption": "",
+
+            "isMain": 1
+
+        },
+
+        {
+
+            "src": "https://i0.wp.com/laptopmedia.com/wp-content/uploads/2021/07/lenovoideapad3172021featured.jpg?ssl=1",
+
+            "caption": "side picture",
+
+            "isMain": 0
+
+        }
+
+    ]
+} {
+
+    "id": "3",
+
+    "title": "14\" Touch Screen ",
+
+    "description": "Dell Inspiron 2-in-1 - Intel Core i5",
+
+    "specifications": {
+
+        "brand": "Dell",
+
+        "model": "i5410-5149SLV-PUS",
+
+        "weight": "5.6 lbs",
+
+        "display type": "LED"
+
+    },
+
+    "stockQty": 10,
+
+    "price": 599.99,
+
+    "currency": "$",
+
+    "rating": 4.5,
+
+    "images": [
+
+        {
+
+            "src": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/inspiron_14_5410_2n1/media-gallery/in5410t_ctb_05000ff090_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,0&resMode=sharp2&size=402,402",
+
+            "caption": "",
+
+            "isMain": 1
+
+        },
+
+        {
+
+            "src": "https://i2.wp.com/laptopmedia.com/wp-content/uploads/2020/11/1-8-e1604909026701.jpg?fit=1105%2C624&ssl=1",
+
+            "caption": "side picture",
+
+            "isMain": 0
+
+        }
+
+    ]
+
+} {
+
+    "id": "4",
+
+    "title": "15.6\" QHD ",
+
+    "description": "ASUS - ROG Zephyrus Gaming Laptop",
+
+    "specifications": {
+
+        "brand": "ASUS",
+
+        "model": "GA503QR-211.ZG15",
+
+        "weight": "4.21 lbs",
+
+        "display type": "LED"
+
+    },
+
+    "stockQty": 10,
+
+    "price": 1549.99,
+
+    "currency": "$",
+
+    "rating": 4.5,
+
+    "images": [
+
+        {
+
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448848_sd.jpg",
+
+            "caption": "",
+
+            "isMain": 1
+
+        },
+
+        {
+
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448848cv4d.jpg",
+
+            "caption": "side picture",
+
+            "isMain": 0
+
+        }
+
+    ]
+
+} {
+
+    "id": "5",
+
+    "title": "15.6\" ",
+
+    "description": "HP - Intel Celeron",
+
+    "specifications": {
+
+        "brand": "HP",
+
+        "model": "15-dw1033dx",
+
+        "weight": "4 lbs",
+
+        "display type": "LED"
+
+    },
+
+    "stockQty": 10,
+
+    "price": 369.99,
+
+    "currency": "$",
+
+    "rating": 4,
+
+    "images": [
+
+        {
+
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6477/6477885_sd.jpg",
+
+            "caption": "",
+
+            "isMain": 1
+
+        },
+
+        {
+
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6477/6477885_rd.jpg",
+
+            "caption": "side picture",
+
+            "isMain": 0
+
+        }
+
+    ]
+
+}
